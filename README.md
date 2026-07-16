@@ -6,7 +6,7 @@ I build practical software tools that make AI, APIs, and data workflows easier t
 
 ## Featured AI Projects
 
-### EvalForge AI
+### [EvalForge AI](https://github.com/FarhadSadat224/evalforge-ai)
 AI evaluation and experiment console for code, SQL, prompts, and RAG outputs.
 
 - A/B scoring for prompt and model-output variants
@@ -14,7 +14,7 @@ AI evaluation and experiment console for code, SQL, prompts, and RAG outputs.
 - Observability-style signals for confidence, latency, and regression risk
 - Built to show AI evaluation, product judgment, and engineering reliability
 
-### QueryGuard AI
+### [QueryGuard AI](https://github.com/FarhadSadat224/queryguard-ai)
 AI-focused code, API, and SQL test-intelligence platform.
 
 - Generates risk signals from user stories, API contracts, schemas, and code
@@ -22,7 +22,7 @@ AI-focused code, API, and SQL test-intelligence platform.
 - Turns SDET experience into AI-assisted developer tooling
 - Built for companies that care about code quality, testing, and production readiness
 
-### CareerSignal AI
+### [CareerSignal AI](https://github.com/FarhadSadat224/careersignal-ai)
 Role-fit analyzer and portfolio project builder for job seekers.
 
 - Compares job descriptions with candidate experience
