@@ -1,8 +1,18 @@
 # Hi, I'm Sayed Farhad Sadat
 
-**Software Engineer | AI Quality, Automation, API & Data Validation**
+**QA Engineer | SDET | Test Automation | API & Database Testing | AI Quality**
 
-I build practical software tools that make AI, APIs, and data workflows easier to trust. My background is 8+ years in SDET and quality automation, and I am now focused on software engineering roles where reliability, product thinking, and AI evaluation matter.
+QA Engineer and SDET with 8+ years of experience building automated UI, API, database, and CI/CD quality solutions. I use Java, Selenium WebDriver, REST Assured, SQL, Jenkins, Maven, Docker, and Git/GitHub to create maintainable test frameworks and reliable release gates. I also build AI-quality tools for evaluation, risk analysis, and developer workflows.
+
+## Featured QA & SDET Project
+
+### [SDET Quality Automation Framework](https://github.com/FarhadSadat224/sdet-quality-automation-framework)
+Java API test automation framework using REST Assured, JUnit 5, WireMock, Maven, and GitHub Actions.
+
+- Automated REST API validation with reusable test components
+- Mock-service testing with WireMock
+- Maven-based execution and GitHub Actions CI
+- Demonstrates maintainable SDET framework design and release-quality thinking
 
 ## Featured AI Projects
 
@@ -33,11 +43,11 @@ Role-fit analyzer and portfolio project builder for job seekers.
 ## Engineering Strengths
 
 - **Languages:** Java, Python, C#, SQL, JavaScript
-- **API / Backend Quality:** REST Assured, Karate API, Postman, SOAP, JDBC, API contract validation
-- **Automation:** Selenium WebDriver, TestNG, JUnit, Cucumber, POM, BDD/TDD, regression frameworks
+- **API / Backend Quality:** REST Assured, Karate API, Postman, JDBC, API contract validation
+- **Automation:** Selenium WebDriver, TestNG, JUnit, Cucumber, Page Object Model, BDD/TDD, regression frameworks
 - **Data:** SQL validation, MySQL, Oracle, MongoDB, data-driven test architecture
 - **DevOps:** Jenkins, Maven, Docker, Git, GitHub, CI/CD quality gates
-- **AI Focus:** AI evaluation, prompt/output comparison, RAG quality checks, code and query review workflows
+- **AI Quality:** AI evaluation, prompt/output comparison, RAG quality checks, code and query review workflows
 
 ## How I Think About Software Quality
 
@@ -45,7 +55,7 @@ Build the right thing, validate the risky parts early, automate the feedback loo
 
 ## Open To
 
-Remote Software Engineer, AI Quality Engineer, SDET, QA Automation, API Automation, and developer-tooling roles where I can combine engineering delivery with reliability-focused thinking.
+Remote QA Engineer, Software Engineer in Test, SDET, Test Automation, API/Database Testing, AI Quality, and selected GIS/IT roles.
 
 ## Connect
 
